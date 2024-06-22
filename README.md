@@ -1,1 +1,1 @@
-HELP WITH SEQUENCE MANIPULATION AND STATISTICS OF DNA
+Helps with sequence manipulation and statistics of DNA
